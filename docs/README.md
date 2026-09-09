@@ -1,0 +1,1 @@
+This folder contains derivations and explanations of selected equations presented in the main paper. Folder names follow the format **EQ[equation number]**, where **EQ** denotes the derivation of the corresponding equation in the main paper.
