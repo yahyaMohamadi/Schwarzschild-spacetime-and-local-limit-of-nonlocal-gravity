@@ -1,2 +1,2 @@
 # nonlocal-black-hole-
-“This document contains the collection of code I have developed for performing nonlocal black hole calculations.
+This repository contains the code developed for the tensorial analysis presented in Schwarzschild Spacetime and the Local Limit of Nonlocal Gravity (arXiv:2509.20089).
