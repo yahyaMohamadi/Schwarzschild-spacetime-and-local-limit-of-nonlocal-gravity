@@ -3,7 +3,9 @@ This repository contains the code developed for the tensorial analysis presented
 # Contact
 
 For questions or further information, please contact:
-Yahya Nia Mohammadi
+
+**Yahya Nia Mohammadi**<br>
+
 Email: yahyamohammadi848@gmail.com
 
 
